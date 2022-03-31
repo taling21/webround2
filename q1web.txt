@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Talin Gupta</title>
+<style>
+table,th,td{
+ border : 3px solid black;
+}
+th,td{
+padding : 35px;
+}
+th,td{
+    text-align: center;
+}
+</style>
+<body>
+<table style="width:100%">
+<tr>
+<td rowspan = "2" colspan = "2"> UL </td>
+<td colspan = "2"> UM1 </td>
+<td rowspan = "5" colspan = "2"> UR </td>
+</tr>
+
+<tr>
+<td colspan = "2"> UM2 </td>
+</tr>
+<tr>
+<td rowspan = "3"> BL </td>
+<td rowspan = "3"> BL </td>
+<td colspan = "2"> UM3 </td>
+
+</tr>
+<tr>
+
+<td colspan = "2"> UM4 </td>
+
+</tr>
+<tr>
+
+<td colspan = "2"> UM5 </td>
+
+</tr>
